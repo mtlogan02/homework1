@@ -1,3 +1,4 @@
 What is a remote repository?
-A remote repository is a repository that is a central repository that is hosted online that can be seen by several developers/collaborators (Thushan.)
+A remote repository is a repository that is a central repository that is hosted online that can be seen by several developers/collaborators.
+
 
